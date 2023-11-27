@@ -1,14 +1,1 @@
-{
-    "user1": {
-        "password": "password1",
-        "secret_key": "JBSWY3DPEHPK3PXP"
-    },
-    "user2": {
-        "password": "password2",
-        "secret_key": "K4S7C57I3ZZOJMGV"
-    },
-    "user3": {
-        "password": "password3",
-        "secret_key": "WJQXKE2S6FL6UBPJ"
-    }
-}
+{"user1": {"password": "password1", "secret_key": "JBSWY3DPEHPK3PXP"}, "user2": {"password": "password2", "secret_key": "K4S7C57I3ZZOJMGV"}, "user3": {"password": "password3", "secret_key": "WJQXKE2S6FL6UBPJ"}, "Mac": {"password": "MacPassword", "secret_key": "2PNOV65IXZBC3PO5", "email": "macnisbet64@gmail.com"}}
