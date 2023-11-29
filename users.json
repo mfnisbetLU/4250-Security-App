@@ -1,1 +1,9 @@
-{"user1": {"password": "password1", "secret_key": "JBSWY3DPEHPK3PXP"}, "user2": {"password": "password2", "secret_key": "K4S7C57I3ZZOJMGV"}, "user3": {"password": "password3", "secret_key": "WJQXKE2S6FL6UBPJ"}, "Mac": {"password": "MacPassword", "secret_key": "2PNOV65IXZBC3PO5", "email": "macnisbet64@gmail.com"}}
+{"Admin": {"password": "Admin", "secret_key": null, "email": null, "role": "Admin", "average": "100"}, 
+"Mac": {"password": "MacPassword", "secret_key": "OIXUAEG5Z32JV2MV", "email": "macnisbet64@gmail.com", "role": "Student", "program": "Software", "average": "73"}, 
+"Professor-History": {"password": "History", "secret_key": null, "email": null, "role": "Professor", "program": "History", "average": "2"}, 
+"Professor-Geology": {"password": "Geology", "secret_key": null, "email": null, "role": "Professor", "program": "Geology", "average": "100"}, 
+"Student-History1": {"password": "History1", "secret_key": null, "email": null, "role": "Student", "program": "History", "average": "88"}, 
+"Student-History2": {"password": "History2", "secret_key": null, "email": null, "role": "Student", "program": "History", "average": "79"}, 
+"Student-Geology1": {"password": "Geology1", "secret_key": null, "email": null, "role": "Student", "program": "Geology", "average": "75"}, 
+"Student-Geology2": {"password": "Geology2", "secret_key": null, "email": null, "role": "Student", "program": "Geology", "average": "88"}, 
+"Dean": {"password": "Dean", "secret_key": null, "email": null, "role": "Dean", "program": null, "average": "100"}}
